@@ -42,12 +42,9 @@
         <module>modules/command-aspect</module>
         <module>modules/composite-aspect</module>
         <module>modules/decorator-aspect</module>
-        <module>modules/facade-aspect</module>
         <module>modules/flyweight-aspect</module>
         <module>modules/prototype-aspect</module>
         <module>modules/proxy-aspect</module>
-        <module>modules/simple-factory-aspect</module>
-        <module>modules/strategy-aspect</module>
         <module>modules/visitor-aspect</module>
     </modules>
 
