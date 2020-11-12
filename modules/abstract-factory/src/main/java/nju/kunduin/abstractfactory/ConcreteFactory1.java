@@ -1,5 +1,6 @@
 package nju.kunduin.abstractfactory;
 
+/** @author kunduin */
 public class ConcreteFactory1 implements AbstractFactory {
     @Override
     public Product1 createProduct1() {
